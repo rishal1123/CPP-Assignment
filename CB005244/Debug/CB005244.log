@@ -1,0 +1,3 @@
+﻿  FIleDriver.cpp
+d:\projects\c++\cpp-assignment\cb005244\filedriver.cpp(44): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  CB005244.vcxproj -> D:\Projects\C++\CPP-Assignment\Debug\CB005244.exe
